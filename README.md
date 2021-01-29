@@ -1,5 +1,5 @@
-Contenidos FP Dual Desarrollo Aplicaciones Web - CIFP Francesc de Borja Moll
-============================================================================
+FP Dual Desarrollo Aplicaciones Web - CIFP Francesc de Borja Moll
+=================================================================
 
 La metodología del día a día va en la línea de cómo se practican [katas en un dojo de programación](https://en.wikipedia.org/wiki/Kata_(programming) "Entrada wikipedia kata in programming"). 
 
@@ -21,9 +21,11 @@ La [Cámara de Comercio](https://fp-dual.es/ "Site FP Dual Illes Balears") aseso
 
 ## Syllabus
 
-### 1. Primer año:
+### Primer curso
 
-Los proyectos trimestrales _fullstack_ (_front_ +  _back_ + base de datos) a desarrollar mediante parejas de programación de este año son: 
+#### Proyectos
+
+Los proyectos trimestrales -transversales a todos los móduos que conforman el primer curso del ciclo- _fullstack_ (_front_ +  _back_ + base de datos) a desarrollar mediante parejas de programación de este año son: 
 
 - Primer trimestre, un sistema de _web scrapping_ con `Python`, `Mongo Atlas`, `HTML` y `CSS`, sin utilizar librerías existentes de _scrapping_, programando al más bajo nivel posible.
 - Segundo trimestre: API REST con `Flask`, `MySQL` de [una tienda online](https://github.com/dfleta/ollivanders_shop "Tienda mágica Ollivander's") (cliente con `JS`, `HTML` y `CSS`).
@@ -67,13 +69,13 @@ Los proyectos trimestrales _fullstack_ (_front_ +  _back_ + base de datos) a de
 
 #### Formación y orientación laboral
 
-### 2. Segundo año:
+### Segundo curso
 
 #### Desarrollo web en entorno cliente
  - Javascript Vanilla ;) 
  - Core y Client Side.
  - CSS3, HTML5, 
- - Alguno de los frameworks AngularJS, ReactJS, Vue, Nuxt, según el proyecto elegido en el curso. Este curso ha sido VUE.
+ - Alguno de los frameworks AngularJS, ReactJS, Vue, Nuxt, según el proyecto elegido en el curso y las empresas colaboradoras. Este curso ha sido VUE.
  - Node.
 
 #### Desarrollo web en entorno servidor
@@ -84,17 +86,23 @@ Los proyectos trimestrales _fullstack_ (_front_ +  _back_ + base de datos) a de
  - Fundamentos del diseño web.
  - Diversas tecnologías relacionadas con la capa de presentación (SaSS, BootStrap, VUE, entre otras); 
  - Arquitectura de la información.
+ - Bootstrap.
+ - VUE.
 
 #### Despliegue de aplicaciones web
  - Instalación y configuración de servidores web: apache, DNS, ftp, etc. 
  - Despliegue de aplicaciones. 
  
 #### Iniciativa emprendedora.
+- El programa dual mantiene una estrecha colaboración con la [Incubadora de empresas de la Fundació Bit](https://www.fundaciobit.org/es/tag/incubadora-de-empresas-es/ "Site Incubadora Fundació Bit") y, en particular, con el programa [Emprenbit](http://www.emprenbit.org/?Idi=1 "Site Emprenbit").
 
 #### Proyecto final de ciclo
 
+--------
 
 ## Contrato formativo
+
+### Beneficios para las empresas
 
 No se trata de unas prácticas al uso de formación profesional, por los siguientes motivos:
 
@@ -109,5 +117,30 @@ No se trata de unas prácticas al uso de formación profesional, por los siguien
  - El período de vacaciones del alumno/a se ciñe a lo estipulado en el convenio.
  - **El contrato posee una duración mínima de 12 meses**, a comenzar entre marzo y junio del año 2021, y se extiende hasta que finaliza la actividad formativa (los estudios del ciclo, junio 2022). Esto facilita la incorporación del alumno/a en función del número de proyectos previstos.
  - El seguimiento por parte de los tutores/as del centro educativo es continuo. Es necesario asignar a una persona como tutor/a del centro de trabajo que trabaja en coordinación con nosotros. 
- - **LA Cámara de Comercio de Mallorca asesora durante la gestión del contrato**, lo que facilita mucho el ya de por sí escaso papeleo que conlleva. El **SEPE autoriza los contratos** y la Direcció General de Formació Professional coordina y supervisa el proceso. 
+ - **La Cámara de Comercio de Mallorca asesora durante la gestión del contrato**, lo que facilita mucho el ya de por sí escaso papeleo que conlleva. El **SEPE autoriza los contratos** y la Direcció General de Formació Professional coordina y supervisa el proceso. 
 - Como empresas colaboradoras contamos con un abanico amplio de perfiles, desde PYMES hasta consultoras del sector TIC de la Isla.
+
+---------
+
+## Qué dicen las empresa del programa
+
+[Brújula es una de les empreses que apuesta por nosotros/as](https://fp-dual.es/limportant-paper-empreses-lfp-dual/ "Vídeo Brújula")
+
+
+## Participa como empresa
+
+Envía el **documento de adhesión** [CAT](./documento%20adhesión%20de%20empresa/Compromis_participacio_2020-2021_cat.pdf "PDF adhesió Català") - [ES](./documento%20adhesión%20de%20empresa/Compromiso%20participación%202020-2021_es.pdf "PDF adhesión Castellano")  al [coordinador del programa]() o a la Cámara de Comercio.
+
+-------------
+
+## Un resumen y recursos
+
+[@gelpi](https://linktr.ee/gelpi)
+
+-------------
+
+## Prensa
+
+ - [Alumnado de Dual en desarrollo de apps web y administración de sistemas y redes en Cocodin.](https://www.instagram.com/p/CKn7PbNjzqK/ "Publicaión Instagram alumnado Cocodin")
+ - [Objetivos de la FP Dual en desarrollo de aplicaciones web y administración de sistemas y redes.](https://www.instagram.com/p/CKlySiKKjkc/ "Publicaciónn instagram Objetivos FP Dual") 
+ - [Instagram FP Dual Mallorca](https://www.instagram.com/fpdual_mallorca/ "Instagram FP Dual Mallorca")
