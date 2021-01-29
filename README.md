@@ -122,7 +122,7 @@ No se trata de unas prácticas al uso de formación profesional, por los siguien
 
 ---------
 
-## Qué dicen las empresa del programa
+## Qué dicen las empresas del programa
 
 [Brújula es una de les empreses que apuesta por nosotros/as](https://fp-dual.es/limportant-paper-empreses-lfp-dual/ "Vídeo Brújula")
 
