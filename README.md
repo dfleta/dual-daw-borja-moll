@@ -129,7 +129,7 @@ No se trata de unas prácticas al uso de formación profesional, por los siguien
 
 ## Participa como empresa
 
-Envía el **documento de adhesión** [CAT](./documento%20adhesión%20de%20empresa/Compromis_participacio_2020-2021_cat.pdf "PDF adhesió Català") - [ES](./documento%20adhesión%20de%20empresa/Compromiso%20participación%202020-2021_es.pdf "PDF adhesión Castellano")  al [coordinador del programa]() o a la Cámara de Comercio.
+Envía el **documento de adhesión** [CAT](./documento%20adhesión%20de%20empresa/Compromis_participacio_2020-2021_cat.pdf "PDF adhesió Català") - [ES](./documento%20adhesión%20de%20empresa/Compromiso%20participación%202020-2021_es.pdf "PDF adhesión Castellano")  al [coordinador del programa](https://www.linkedin.com/in/david-gelpi-23a76110/ "Linkedin David Gelpi") o a la Cámara de Comercio.
 
 -------------
 
