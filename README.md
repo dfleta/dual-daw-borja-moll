@@ -135,7 +135,7 @@ Envía el **documento de adhesión** [CAT](./documento%20adhesión%20de%20empres
 
 ## Un resumen y recursos
 
-[@gelpi](https://linktr.ee/gelpi)
+[@gelpi](https://campsite.bio/gelpi)
 
 -------------
 
