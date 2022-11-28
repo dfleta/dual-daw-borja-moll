@@ -106,16 +106,15 @@ Los proyectos trimestrales -transversales a todos los móduos que conforman el p
 
 No se trata de unas prácticas al uso de formación profesional, por los siguientes motivos:
 
- - El alumno/a se incorpora a la empresa entre marzo y junio del año 2022.
- - De octubre de 2021 a marzo de 2022 acuden a clase todos los días 6 horas. 
+ - El alumno/a se incorpora a la empresa entre marzo y junio del año 2023.
+ - De octubre de 2022 a marzo de 2023 acuden a clase todos los días 6 horas. 
  - A partir de este 6º mes de formación (marzo) acuden a la empresa **5 horas cada día, por la mañana, bajo un contrato de formación de 25 horas a la semana** y 3 horas por la tarde al centro formativo.
- - En los meses de verano el contrato puede ampliarse hasta 8 horas al día de trabajo en la empresa. Durante los últimos 4 meses de la formación (marzo - junio del segundo curso) el contrato puede ampliarse a 34 horas a la semana.
  - El contrato es un contrato de formación. **La seguridad social de este trabajador/a está 100% bonificada durante todo el período del contrato**, siempre que la empresa esté al corriente de pago de Hacienda y Seguridad social y cumpla con los requisitos para formalizar este contrato. Al finalizar el contrato, la **transformación a indefinido da derecho a una reducción de cuotas empresariales de 1.500 €, o 1.800 €** si se trata de una mujer, durante tres años.
  - El trabajador/a cobra según convenio. La experiencia muestra que se mueven en una horquilla de entre 500€ - 750€ al mes. Según convenio colectivo y categoría de "programador web" corresponderían 643 €/mes.
  - **Se bonifica la tutorización del tutor de empresa en los seguros sociales**, con carácter mensual. El importe depende del tamaño de la empresa, máximo 80 € en empresas de hasta 5 trabajadores y de 60€ en empresas de más de 5 trabajadores. Se tiene en cuenta el número de horas dedicadas mensualmente con un límite de 40 horas así, como el número de alumnos tutorizados.
  - Existe el período de prueba que estipule el convenio. Si transcurrido un mes se presentan circunstancias que hacen inviable mantener el contrato del alumno/a, también puede extinguirse. 
  - El período de vacaciones del alumno/a se ciñe a lo estipulado en el convenio.
- - **El contrato posee una duración mínima de 12 meses**, a comenzar entre marzo y junio del año 2022, y se extiende hasta que finaliza la actividad formativa (los estudios del ciclo, junio 2023). Esto facilita la incorporación del alumno/a en función del número de proyectos previstos.
+ - **El contrato posee una duración mínima de 12 meses**, a comenzar entre marzo y junio del año 2022, y se extiende hasta que finaliza la actividad formativa (los estudios del ciclo, junio 2024). Esto facilita la incorporación del alumno/a en función del número de proyectos previstos.
  - El seguimiento por parte de los tutores/as del centro educativo es continuo. Es necesario asignar a una persona como tutor/a del centro de trabajo que trabaja en coordinación con nosotros. 
  - **La Cámara de Comercio de Mallorca asesora durante la gestión del contrato**, lo que facilita mucho el ya de por sí escaso papeleo que conlleva. El **SEPE autoriza los contratos** y la Direcció General de Formació Professional coordina y supervisa el proceso. 
 - Como empresas colaboradoras contamos con un abanico amplio de perfiles, desde PYMES hasta consultoras del sector TIC de la Isla.
